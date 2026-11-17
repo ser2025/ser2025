@@ -26,14 +26,16 @@ Veri bilimi ve yapay zekâyı öğreniyor, öğrendiklerimi gerçek projelere d�
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| [👗 Fashion Recommendation System](https://github.com/ser2025/fashion-recommendation-system) | Bir fotoğraftan görsel olarak benzer moda ürünlerini öneren sistem | VGG16, scikit-learn, Streamlit |
+| [📊 Veri Bilimi Projeleri](https://github.com/ser2025/veri-bilimi-projeleri) | 10 proje: ML, derin öğrenme (CNN, ANN), NLP; Titanic, kredi riski, trafik işareti (%96), İstanbul kira tahmini | scikit-learn, XGBoost, Keras |
+| [👗 Fashion Recommendation System](https://github.com/ser2025/fashion-recommendation-system) | Bir fotoğraftan görsel olarak benzer moda ürünlerini öneren sistem · [Canlı demo](https://sibel-fashion-recommendation.streamlit.app/) | VGG16, scikit-learn, Streamlit |
+| [🚦 GTSRB Trafik İşareti CNN](https://huggingface.co/Sibeller/gtsrb-traffic-sign-cnn) | 43 sınıflı trafik işareti sınıflandırma modeli (Hugging Face) | Keras, CNN |
 | [🌌 Aurora](https://github.com/ser2025/Aurora_Website) | Yapay zekâ, veri bilimi ve astronomi kesişiminde akademik portfolyo | Jupyter, Python |
 | [📚 Data Science Bootcamp](https://github.com/ser2025/dsbc) | Veri bilimi bootcamp ders materyalleri ve uygulamaları | Python, Jupyter |
 
 ---
 
 ### 📫 Bana ulaşın
-[![[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sibeler))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibeler)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sibeler)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Sibeller)
 
