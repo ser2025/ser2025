@@ -26,6 +26,7 @@ Veri bilimi ve yapay zekâyı öğreniyor, öğrendiklerimi gerçek projelere d�
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
+| 🏆 Kaggle Become a Pro | 20 Kaggle yarışması: regresyon, sınıflandırma, NLP, görüntü · [Kaggle notebookları](https://www.kaggle.com/sibeler/code) · [HF demo](https://huggingface.co/spaces/Sibeller/kaggle-become-a-pro) | scikit-learn, Keras, Streamlit |
 | [📊 Veri Bilimi Projeleri](https://github.com/ser2025/veri-bilimi-projeleri) | 10 proje: ML, derin öğrenme (CNN, ANN), NLP; Titanic, kredi riski, trafik işareti (%96), İstanbul kira tahmini | scikit-learn, XGBoost, Keras |
 | [👗 Fashion Recommendation System](https://github.com/ser2025/fashion-recommendation-system) | Bir fotoğraftan görsel olarak benzer moda ürünlerini öneren sistem · [Canlı demo](https://sibel-fashion-recommendation.streamlit.app/) | VGG16, scikit-learn, Streamlit |
 | [🚦 GTSRB Trafik İşareti CNN](https://huggingface.co/Sibeller/gtsrb-traffic-sign-cnn) | 43 sınıflı trafik işareti sınıflandırma modeli (Hugging Face) | Keras, CNN |
