@@ -1,16 +1,40 @@
-## Hi there 👋
+# Merhaba, ben Sibel 👋
 
-<!--
-**ser2025/ser2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Veri Bilimi • Yapay Zekâ • Makine Öğrenmesi**
 
-Here are some ideas to get you started:
+Veri bilimi ve yapay zekâyı öğreniyor, öğrendiklerimi gerçek projelere dönüştürüyorum. Belbim'de çalışıyor, verinin akıllı şehirler, ulaşım ve ödeme sistemlerindeki gücüne yakından tanıklık ediyorum. Yapay zekâyı herkesin anlayacağı dille anlatmayı da seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Şu an üzerinde çalıştıklarım
+- Görüntü tabanlı öneri sistemleri (transfer learning, VGG16)
+- Makine öğrenmesi ile tahminleme ve modelleme
+- Veri bilimi bootcamp uygulamaları
+
+### 🛠️ Kullandığım araçlar
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+---
+
+### 📌 Öne çıkan projeler
+
+| Proje | Açıklama | Teknolojiler |
+|---|---|---|
+| [👗 Fashion Recommendation System](https://github.com/ser2025/fashion-recommendation-system) | Bir fotoğraftan görsel olarak benzer moda ürünlerini öneren sistem | VGG16, scikit-learn, Streamlit |
+| [🌌 Aurora](https://github.com/ser2025/Aurora_Website) | Yapay zekâ, veri bilimi ve astronomi kesişiminde akademik portfolyo | Jupyter, Python |
+| [📚 Data Science Bootcamp](https://github.com/ser2025/dsbc) | Veri bilimi bootcamp ders materyalleri ve uygulamaları | Python, Jupyter |
+
+---
+
+### 📫 Bana ulaşın
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KULLANICI-ADINIZ)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sibeler)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Sibeller)
+
+💡 *Her hafta LinkedIn'de yapay zekâ ve veri bilimi üzerine içerik paylaşıyorum. Takip edin, sohbet edelim!*
