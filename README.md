@@ -29,7 +29,7 @@ Veri bilimi ve yapay zekâyı öğreniyor, öğrendiklerimi gerçek projelere d�
 | [📊 Veri Bilimi Projeleri](https://github.com/ser2025/veri-bilimi-projeleri) | 10 proje: ML, derin öğrenme (CNN, ANN), NLP; Titanic, kredi riski, trafik işareti (%96), İstanbul kira tahmini | scikit-learn, XGBoost, Keras |
 | [👗 Fashion Recommendation System](https://github.com/ser2025/fashion-recommendation-system) | Bir fotoğraftan görsel olarak benzer moda ürünlerini öneren sistem · [Canlı demo](https://sibel-fashion-recommendation.streamlit.app/) | VGG16, scikit-learn, Streamlit |
 | [🚦 GTSRB Trafik İşareti CNN](https://huggingface.co/Sibeller/gtsrb-traffic-sign-cnn) | 43 sınıflı trafik işareti sınıflandırma modeli (Hugging Face) | Keras, CNN |
-| [🌌 Aurora](https://github.com/ser2025/Aurora_Website) | Yapay zekâ, veri bilimi ve astronomi kesişiminde akademik portfolyo | Jupyter, Python |
+| [🌐 Kişisel Web Sitesi](https://ser2025.github.io/Aurora_Website/) | Yapay zekâ, veri bilimi ve astronomi kesişimindeki çalışmalarım, sertifikalarım ve CV'm · [Kaynak kod](https://github.com/ser2025/Aurora_Website) | HTML, CSS, GitHub Pages |
 | [📚 Data Science Bootcamp](https://github.com/ser2025/dsbc) | Veri bilimi bootcamp ders materyalleri ve uygulamaları | Python, Jupyter |
 
 ---
