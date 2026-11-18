@@ -2,7 +2,7 @@
 
 **Veri Bilimi • Yapay Zekâ • Makine Öğrenmesi**
 
-Veri bilimi ve yapay zekâyı öğreniyor, öğrendiklerimi gerçek projelere dönüştürüyorum. Belbim'de çalışıyor, verinin akıllı şehirler, ulaşım ve ödeme sistemlerindeki gücüne yakından tanıklık ediyorum. Yapay zekâyı herkesin anlayacağı dille anlatmayı da seviyorum.
+Satın alma ve ihale süreçlerindeki profesyonel deneyimimi veri bilimi ve yapay zekâ ile birleştiriyorum. Python ile veri analizi, makine öğrenmesi ve derin öğrenme projeleri geliştiriyor; çalışmalarımı GitHub, Kaggle ve Hugging Face üzerinde açık olarak paylaşıyorum. Belbim'de verinin akıllı şehir, ulaşım ve ödeme sistemlerindeki rolünü yakından gözlemliyorum.
 
 ---
 
